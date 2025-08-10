@@ -57,12 +57,5 @@ I’m a passionate developer, lifelong learner, and enthusiastic sketch artist.
 
 ---
 
-## ✨ Fun Facts
-
-- My favorite motto: **"Keep learning, keep growing!"**
-- Always happy to help others and learn together!
-
----
-
 Thanks for visiting!  
 Check out my repositories, connect with me, and let's create something amazing together. 😊
