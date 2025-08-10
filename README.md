@@ -48,8 +48,8 @@ I’m a passionate developer, lifelong learner, and enthusiastic sketch artist.
 - 💻 GitHub: [sakshighardale](https://github.com/sakshighardale)
 - 💼 LinkedIn: [linkedin.com/in/sakshi-ghardale](https://linkedin.com/in/sakshi-ghardale)
 - 📸 Instagram (Personal): [sakshi_ghardale](https://instagram.com/sakshi_ghardale)
-- 📷 Instagram (Photography): [sak.g_g](https://instagram.com/sak.g_g)
-- 🎨 Instagram (Sketches): [nakshtra_0504](https://instagram.com/nakshtra_0504)
+- 📷 Instagram (Photography_For_Fun): [sak.g_g](https://instagram.com/sak.g_g)
+- 🎨 Instagram (Sketches **NEW_ACCOUNT**): [nakshtra_0504](https://instagram.com/nakshtra_0504)
 - 🏆 LeetCode: [sakshighardale](https://leetcode.com/sakshighardale/)
 - 📧 Email: ghardalesakshi@gmail.com
 
